@@ -26,3 +26,4 @@ So my current approach uses csv files to create a data source in Tableau and per
 <img width="1202" alt="image" src="https://github.com/hkmodi31/Boston-Airbnb-Data-Storage/assets/47323046/75056fc7-3861-40f6-8a9c-21f546971d39">
 
 The final Tableau story can be viewed here - 
+![Tableau Sample Image](Boston story.png)
