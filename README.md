@@ -25,5 +25,6 @@ My initial goal was to create a connection between PostGreSQL and Tableau to mak
 So my current approach uses csv files to create a data source in Tableau and perform visulisations on the same.
 <img width="1202" alt="image" src="https://github.com/hkmodi31/Boston-Airbnb-Data-Storage/assets/47323046/75056fc7-3861-40f6-8a9c-21f546971d39">
 
-The final Tableau story can be viewed here - 
-Check out my Tableau Story: [Boston Airbnb - Insights from the top] (https://public.tableau.com/views/BostonAirbnbAnalytics/Bostonstory?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+Check out my Tableau Story here: Boston Airbnb - From The Top
+
+(https://public.tableau.com/views/BostonAirbnbAnalytics/Bostonstory?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
